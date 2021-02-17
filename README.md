@@ -2,8 +2,7 @@
 Delivery and sales transactions
 
 How To Run
-<br/>
-1. download the repo as a zip file.
+<br/>1. download the repo as a zip file.
 <br/>
 2. extract the zip file to your web server directory OR<br/>
    -if you don't have one yet you can download and install XAMPP<br/>
