@@ -5,7 +5,7 @@ How To Run
 
 1. download the repo as a zip file.
 
-2. extract the zip file to your web server directory OR
+2. extract the zip file to your web server directory OR<br/>
    -if you don't have one yet you can download and install XAMPP 
    -extract the zip file to XAMPP/htdocs directory.
    -start apache and mysql in XAMPP control panel.
